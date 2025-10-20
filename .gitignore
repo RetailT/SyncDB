@@ -1,0 +1,24 @@
+.env
+ssl/
+
+# Node.js dependencies
+node_modules/
+certs/
+logs/
+
+# Logs
+*.log
+
+# Environment files
+
+
+# Mac system files
+.DS_Store
+
+# Build directories
+build/
+dist/
+
+# IDE configurations
+.idea/
+.vscode/
