@@ -1,10 +1,11 @@
 .env
 ssl/
+logs/
 
 # Node.js dependencies
 node_modules/
 certs/
-logs/
+
 
 # Logs
 *.log

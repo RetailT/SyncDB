@@ -61,3 +61,6 @@
 "API Call Successful: {""batchCode"":""26092024150651"",""returnStatus"":""Success"",""recordReceived"":24,""recordImported"":24,""recordsReceived"":24,""recordsImported"":24,""errorDetails"":null,""defectiveRowNos"":0}","10/10/2025 23:00:14"
 "✅ Database sync completed successfully.","10/10/2025 23:00:14"
 "✅ Tables updated: {""message"":""Tables updated successfully"",""paymentRowsAffected"":19,""itemsRowsAffected"":24}","10/10/2025 23:00:15"
+"API Call Successful: {""batchCode"":""26092024150651"",""returnStatus"":""Success"",""recordReceived"":19,""recordImported"":19,""recordsReceived"":19,""recordsImported"":19,""errorDetails"":null,""defectiveRowNos"":0}","20/10/2025 23:00:15"
+"✅ Database sync completed successfully.","20/10/2025 23:00:15"
+"✅ Tables updated: {""message"":""Tables updated successfully"",""paymentRowsAffected"":16,""itemsRowsAffected"":22}","20/10/2025 23:00:16"

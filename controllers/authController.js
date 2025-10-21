@@ -14,6 +14,9 @@ const https = require("https");
 const { INSERT } = require("sequelize/lib/query-types");
 const agent = new https.Agent({ family: 4 });
 
+const rtweb = process.env.DB_DATABASE2;
+const posmain = process.env.DB_DATABASE1;
+
 const JWT_SECRET = process.env.JWT_SECRET;
 let IP;
 let PORT;
@@ -31,24 +34,28 @@ async function syncDBConnection() {
   try {
     const request = new mssql.Request(); // Initialize a new request object
     const dbConnectionResult = await request.query(
-      "USE [RTPOS_MAIN] SELECT * FROM tb_SYNCDB_USERS"
+      `USE ${posmain};
+       SELECT * FROM tb_SYNCDB_USERS`
     );
     if (dbConnectionResult.recordset.length === 0) {
-      console.log("Cannot fetch user details");
-      return;
+      const msg = "No user details found in tb_SYNCDB_USERS";
+      await logErrorsToCSV(msg);
+      return [];
     } else {
       const dbConnectionData = dbConnectionResult.recordset;
       return dbConnectionData;
     }
   } catch (error) {
-    console.error("Error in syncDB:", error);
+    const errorMsg = `Error in syncDBConnection: ${error.message}`;
+    await logErrorsToCSV(errorMsg);
+    return [];
   }
 }
 
 async function userItemsDetails(ReceiptDate, ReceiptNo) {
   try {
     const userItemsDetails = await mssql.query`
-    USE [RT_WEB]
+    USE ${rtweb};
       SELECT Item_Desc, ItemAmt, ItemDiscountAmt FROM tb_OGFITEMSALE WHERE ReceiptDate = ${ReceiptDate} AND ReceiptNo = ${ReceiptNo} AND UPLOAD <> 'T';
     `;
     if (userItemsDetails.recordset.length === 0) {
@@ -67,7 +74,7 @@ async function userItemsDetails(ReceiptDate, ReceiptNo) {
 async function userPaymentDetails() {
   try {
     const userPaymentDetails = await mssql.query`
-    USE [RT_WEB]
+    USE ${rtweb};
 SELECT 
     ReceiptNo, 
     MAX(ReceiptDate) AS ReceiptDate, 
@@ -109,7 +116,7 @@ GROUP BY ReceiptNo;
 async function userDetails() {
   try {
     const userDetails = await mssql.query`
-    USE [RT_WEB]
+    USE ${rtweb};
       SELECT AppCode, PropertyCode, POSInterfaceCode, BatchCode, SalesTaxRate, OAUTH_TOKEN_URL, 
       ClientID, ClientSecret, API_ENDPOINT  FROM tb_OGFMAIN;
     `;
@@ -162,10 +169,10 @@ async function getAccessToken(user) {
 
     return response.data.access_token;
   } catch (error) {
-    console.error(
-      `Error fetching token for ${user.OAUTH_TOKEN_URL}:`,
-      error.response ? error.response.data : error.message
-    );
+    const errorMsg = `Error fetching token for ${user.OAUTH_TOKEN_URL}: ${
+      error.response ? JSON.stringify(error.response.data) : error.message
+    }`;
+    await logErrorsToCSV(errorMsg);
     return null;
   }
 }
@@ -189,13 +196,13 @@ function trimObjectStrings(obj) {
 async function updateTables() {
   try {
     const updatePayment = await mssql.query`
-      USE [RT_WEB]
+      USE ${rtweb};
       UPDATE tb_OGFPAYMENT
       SET UPLOAD = 'T'
       WHERE UPLOAD <> 'T' OR UPLOAD IS NULL;`;
 
     const updateItems = await mssql.query`
-      USE [RT_WEB]
+      USE ${rtweb};
       UPDATE tb_OGFITEMSALE
       SET UPLOAD = 'T'
       WHERE UPLOAD <> 'T' OR UPLOAD IS NULL;`;
@@ -270,8 +277,9 @@ async function syncDB() {
     const dbConnectionData = await syncDBConnection();
 
     if (!dbConnectionData || dbConnectionData.length === 0) {
-      console.log("No customer data found.");
-      return [];
+      const msg = "No customer data found.";
+      await logErrorsToCSV(msg);
+      return { message: msg };
     }
 
     const apiResponses = [];
@@ -281,18 +289,15 @@ async function syncDB() {
       syncdbIp = customer.IP ? customer.IP.trim() : null;
       syncdbPort = customer.PORT ? parseInt(customer.PORT.trim()) : null;
 
-      if (!syncdbIp) {
-        console.log("IP is null");
-        errors.push("IP is null");
-      }
-      if (!syncdbPort) {
-        console.log("Port is null");
-        errors.push("Port is null");
+      if (!syncdbIp || !syncdbPort) {
+        const errorMsg = `Invalid IP (${syncdbIp}) or Port (${syncdbPort}) for customer`;
+        console.log(errorMsg);
+        errors.push(errorMsg);
+        await logErrorsToCSV(errorMsg);
+        continue;
       }
 
-      try {
-        await mssql.close();
-        const syncdbConfig = {
+      const syncdbConfig = {
           user: process.env.DB_USER,
           password: process.env.DB_PASSWORD,
           server: syncdbIp,
@@ -304,7 +309,9 @@ async function syncDB() {
           port: syncdbPort,
         };
 
-        await mssql.connect(syncdbConfig);
+      let pool;
+      try {
+        pool = await mssql.connect(syncdbConfig);
         console.log("Successfully connected to the sync database");
 
         const users = await userDetails();
@@ -312,7 +319,8 @@ async function syncDB() {
 
         if (payments.error) {
           errors.push(payments.error);
-          logErrorsToCSV(payments.error);
+          await logErrorsToCSV(payments.error);
+          continue;
         }
 
         const result = [];
@@ -420,9 +428,14 @@ async function syncDB() {
           }
         }
       } catch (err) {
-        console.error("Database Connection Error:", err);
-        logErrorsToCSV(`Database Connection Error: ${err.message}`);
-        errors.push(err.message);
+        const errorMsg = `Database Connection Error: ${err.message}`;
+        console.error(errorMsg);
+        await logErrorsToCSV(errorMsg);
+        errors.push(errorMsg);
+      } finally {
+        if (pool) {
+          await pool.close(); // Close only the specific pool for this customer
+        }
       }
     }
 
@@ -432,9 +445,7 @@ async function syncDB() {
 
     return { responses: apiResponses };
   } catch (error) {
-    console.log("Error occurred:", error);
-    logErrorsToCSV(error.message);
-
+    await logErrorsToCSV(error.message);
     throw error;
   }
 }
@@ -482,6 +493,7 @@ cron.schedule(
         console.error(msg);
         await logErrorsToCSV(msg);
       }
+      process.exit(0);
     } catch (error) {
       const msg = "❌ Cron job failed: " + error.message;
       console.error(msg);

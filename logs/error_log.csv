@@ -675,399 +675,417 @@ Failed to connect to 124.43.16.80:1433 in 15000ms,24/09/2025 09:30:16
 ⚠ Database sync had issues. Full response: [],30/09/2025 07:00:02
 ⚠ No response data returned from syncDB(),30/09/2025 08:00:02
 ⚠ Database sync had issues. Full response: [],30/09/2025 08:00:02
-"Cannot fetch user payment details","30/09/2025 23:00:04"
-"Database Connection Error: payments is not iterable","30/09/2025 23:00:04"
-"Cannot fetch user payment details","30/09/2025 23:00:04"
-"payments is not iterable","30/09/2025 23:00:04"
-"⚠ No response data returned from syncDB()","01/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","01/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","01/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","01/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","01/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","01/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","01/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","01/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","02/10/2025 00:00:01"
-"⚠ Database sync had issues. Full response: []","02/10/2025 00:00:01"
-"⚠ No response data returned from syncDB()","02/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","02/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","02/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","02/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","02/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","02/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","02/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","02/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","02/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","02/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","02/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","02/10/2025 23:00:02"
-"⚠ Database sync had issues. Full response: []","02/10/2025 23:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","03/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","03/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","03/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","03/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","03/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","03/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","03/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","04/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","04/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","04/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","04/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","04/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","04/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","04/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","04/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","05/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","05/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","05/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","05/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","05/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","05/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","05/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","05/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","05/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","05/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","05/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","05/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","05/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","05/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","05/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","05/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","05/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","05/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","05/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","05/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","06/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","06/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","06/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","06/10/2025 03:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 03:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","06/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","06/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","06/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","06/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","06/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","06/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","07/10/2025 00:00:01"
-"⚠ Database sync had issues. Full response: []","07/10/2025 00:00:01"
-"⚠ No response data returned from syncDB()","07/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","07/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","07/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","07/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","07/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","07/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","07/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","07/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","07/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","07/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","07/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","07/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","07/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","07/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","07/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","07/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","08/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","08/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","08/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 03:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 03:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","08/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","08/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","08/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","08/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","08/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","08/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","09/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","09/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","09/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","09/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","09/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","09/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","09/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","09/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","10/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","10/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","10/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","10/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","10/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","10/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","10/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","10/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","10/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","10/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","10/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","10/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","10/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","10/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","10/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","10/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","10/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","10/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","11/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","11/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","11/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","11/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 03:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 03:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","11/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","11/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","11/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","11/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","11/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","11/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 00:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 00:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","12/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","12/10/2025 03:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 03:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","12/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","12/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","12/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","12/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","12/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","12/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","12/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","12/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","13/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","13/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","13/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","13/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","13/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","13/10/2025 23:00:02"
-"⚠ Database sync had issues. Full response: []","13/10/2025 23:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","14/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","14/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","14/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","14/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","14/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","14/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","14/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","14/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","14/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","15/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 02:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 02:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","15/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","15/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","15/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","15/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","15/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","16/10/2025 00:00:01"
-"⚠ Database sync had issues. Full response: []","16/10/2025 00:00:01"
-"⚠ No response data returned from syncDB()","16/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","16/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","16/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","16/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","16/10/2025 04:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 04:00:02"
-"⚠ No response data returned from syncDB()","16/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","16/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","16/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","16/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","16/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","16/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","16/10/2025 23:00:02"
-"⚠ Database sync had issues. Full response: []","16/10/2025 23:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","17/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","17/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","17/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","17/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","17/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","17/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","17/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","17/10/2025 08:00:01"
-"⚠ No response data returned from syncDB()","17/10/2025 23:00:02"
-"⚠ Database sync had issues. Full response: []","17/10/2025 23:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 01:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 01:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","18/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","18/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","18/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","18/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","18/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","18/10/2025 06:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 06:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 07:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 07:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","18/10/2025 23:00:02"
-"⚠ Database sync had issues. Full response: []","18/10/2025 23:00:02"
-"⚠ No response data returned from syncDB()","19/10/2025 00:00:02"
-"⚠ Database sync had issues. Full response: []","19/10/2025 00:00:02"
-"⚠ No response data returned from syncDB()","19/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","19/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","19/10/2025 03:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 03:00:01"
-"⚠ No response data returned from syncDB()","19/10/2025 05:00:02"
-"⚠ Database sync had issues. Full response: []","19/10/2025 05:00:02"
-"⚠ No response data returned from syncDB()","19/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","19/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","19/10/2025 08:00:02"
-"⚠ Database sync had issues. Full response: []","19/10/2025 08:00:02"
-"⚠ No response data returned from syncDB()","19/10/2025 23:00:01"
-"⚠ Database sync had issues. Full response: []","19/10/2025 23:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 00:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 00:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 01:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 01:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 02:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 02:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 03:00:02"
-"⚠ Database sync had issues. Full response: []","20/10/2025 03:00:02"
-"⚠ No response data returned from syncDB()","20/10/2025 04:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 04:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 05:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 05:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 06:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 06:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 07:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 07:00:01"
-"⚠ No response data returned from syncDB()","20/10/2025 08:00:01"
-"⚠ Database sync had issues. Full response: []","20/10/2025 08:00:01"
+Cannot fetch user payment details,30/09/2025 23:00:04
+Database Connection Error: payments is not iterable,30/09/2025 23:00:04
+Cannot fetch user payment details,30/09/2025 23:00:04
+payments is not iterable,30/09/2025 23:00:04
+⚠ No response data returned from syncDB(),01/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 00:00:02
+⚠ No response data returned from syncDB(),01/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 01:00:02
+⚠ No response data returned from syncDB(),01/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 02:00:02
+⚠ No response data returned from syncDB(),01/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 03:00:02
+⚠ No response data returned from syncDB(),01/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],01/10/2025 04:00:01
+⚠ No response data returned from syncDB(),01/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],01/10/2025 05:00:01
+⚠ No response data returned from syncDB(),01/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 06:00:02
+⚠ No response data returned from syncDB(),01/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 07:00:02
+⚠ No response data returned from syncDB(),01/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],01/10/2025 08:00:02
+⚠ No response data returned from syncDB(),01/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],01/10/2025 23:00:01
+⚠ No response data returned from syncDB(),02/10/2025 00:00:01
+⚠ Database sync had issues. Full response: [],02/10/2025 00:00:01
+⚠ No response data returned from syncDB(),02/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 01:00:02
+⚠ No response data returned from syncDB(),02/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],02/10/2025 02:00:01
+⚠ No response data returned from syncDB(),02/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 03:00:02
+⚠ No response data returned from syncDB(),02/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],02/10/2025 04:00:01
+⚠ No response data returned from syncDB(),02/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 05:00:02
+⚠ No response data returned from syncDB(),02/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 06:00:02
+⚠ No response data returned from syncDB(),02/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],02/10/2025 07:00:01
+⚠ No response data returned from syncDB(),02/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 08:00:02
+⚠ No response data returned from syncDB(),02/10/2025 23:00:02
+⚠ Database sync had issues. Full response: [],02/10/2025 23:00:02
+⚠ No response data returned from syncDB(),03/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 00:00:02
+⚠ No response data returned from syncDB(),03/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 01:00:02
+⚠ No response data returned from syncDB(),03/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],03/10/2025 02:00:01
+⚠ No response data returned from syncDB(),03/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 03:00:02
+⚠ No response data returned from syncDB(),03/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 04:00:02
+⚠ No response data returned from syncDB(),03/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 05:00:02
+⚠ No response data returned from syncDB(),03/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 06:00:02
+⚠ No response data returned from syncDB(),03/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],03/10/2025 07:00:02
+⚠ No response data returned from syncDB(),03/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],03/10/2025 08:00:01
+⚠ No response data returned from syncDB(),03/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],03/10/2025 23:00:01
+⚠ No response data returned from syncDB(),04/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 00:00:02
+⚠ No response data returned from syncDB(),04/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 01:00:02
+⚠ No response data returned from syncDB(),04/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],04/10/2025 02:00:01
+⚠ No response data returned from syncDB(),04/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 03:00:02
+⚠ No response data returned from syncDB(),04/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 04:00:02
+⚠ No response data returned from syncDB(),04/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 05:00:02
+⚠ No response data returned from syncDB(),04/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 06:00:02
+⚠ No response data returned from syncDB(),04/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],04/10/2025 07:00:02
+⚠ No response data returned from syncDB(),04/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],04/10/2025 08:00:01
+⚠ No response data returned from syncDB(),04/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],04/10/2025 23:00:01
+⚠ No response data returned from syncDB(),05/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],05/10/2025 00:00:02
+⚠ No response data returned from syncDB(),05/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],05/10/2025 01:00:02
+⚠ No response data returned from syncDB(),05/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],05/10/2025 02:00:01
+⚠ No response data returned from syncDB(),05/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],05/10/2025 03:00:02
+⚠ No response data returned from syncDB(),05/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],05/10/2025 04:00:02
+⚠ No response data returned from syncDB(),05/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],05/10/2025 05:00:01
+⚠ No response data returned from syncDB(),05/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],05/10/2025 06:00:01
+⚠ No response data returned from syncDB(),05/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],05/10/2025 07:00:01
+⚠ No response data returned from syncDB(),05/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],05/10/2025 08:00:02
+⚠ No response data returned from syncDB(),05/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],05/10/2025 23:00:01
+⚠ No response data returned from syncDB(),06/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],06/10/2025 00:00:02
+⚠ No response data returned from syncDB(),06/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 01:00:01
+⚠ No response data returned from syncDB(),06/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],06/10/2025 02:00:02
+⚠ No response data returned from syncDB(),06/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 03:00:01
+⚠ No response data returned from syncDB(),06/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],06/10/2025 04:00:02
+⚠ No response data returned from syncDB(),06/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 05:00:01
+⚠ No response data returned from syncDB(),06/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 06:00:01
+⚠ No response data returned from syncDB(),06/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],06/10/2025 07:00:02
+⚠ No response data returned from syncDB(),06/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 08:00:01
+⚠ No response data returned from syncDB(),06/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],06/10/2025 23:00:01
+⚠ No response data returned from syncDB(),07/10/2025 00:00:01
+⚠ Database sync had issues. Full response: [],07/10/2025 00:00:01
+⚠ No response data returned from syncDB(),07/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],07/10/2025 01:00:01
+⚠ No response data returned from syncDB(),07/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],07/10/2025 02:00:01
+⚠ No response data returned from syncDB(),07/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],07/10/2025 03:00:02
+⚠ No response data returned from syncDB(),07/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],07/10/2025 04:00:02
+⚠ No response data returned from syncDB(),07/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],07/10/2025 05:00:02
+⚠ No response data returned from syncDB(),07/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],07/10/2025 06:00:02
+⚠ No response data returned from syncDB(),07/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],07/10/2025 07:00:01
+⚠ No response data returned from syncDB(),07/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],07/10/2025 08:00:02
+⚠ No response data returned from syncDB(),08/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],08/10/2025 00:00:02
+⚠ No response data returned from syncDB(),08/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 01:00:01
+⚠ No response data returned from syncDB(),08/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 02:00:01
+⚠ No response data returned from syncDB(),08/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 03:00:01
+⚠ No response data returned from syncDB(),08/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 04:00:01
+⚠ No response data returned from syncDB(),08/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],08/10/2025 05:00:02
+⚠ No response data returned from syncDB(),08/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 06:00:01
+⚠ No response data returned from syncDB(),08/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],08/10/2025 07:00:02
+⚠ No response data returned from syncDB(),08/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 08:00:01
+⚠ No response data returned from syncDB(),08/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],08/10/2025 23:00:01
+⚠ No response data returned from syncDB(),09/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 00:00:02
+⚠ No response data returned from syncDB(),09/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],09/10/2025 01:00:01
+⚠ No response data returned from syncDB(),09/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 02:00:02
+⚠ No response data returned from syncDB(),09/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 03:00:02
+⚠ No response data returned from syncDB(),09/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 04:00:02
+⚠ No response data returned from syncDB(),09/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 05:00:02
+⚠ No response data returned from syncDB(),09/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 06:00:02
+⚠ No response data returned from syncDB(),09/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],09/10/2025 07:00:01
+⚠ No response data returned from syncDB(),09/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],09/10/2025 08:00:02
+⚠ No response data returned from syncDB(),09/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],09/10/2025 23:00:01
+⚠ No response data returned from syncDB(),10/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],10/10/2025 00:00:02
+⚠ No response data returned from syncDB(),10/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],10/10/2025 01:00:01
+⚠ No response data returned from syncDB(),10/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],10/10/2025 02:00:02
+⚠ No response data returned from syncDB(),10/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],10/10/2025 03:00:02
+⚠ No response data returned from syncDB(),10/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],10/10/2025 04:00:01
+⚠ No response data returned from syncDB(),10/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],10/10/2025 05:00:01
+⚠ No response data returned from syncDB(),10/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],10/10/2025 06:00:02
+⚠ No response data returned from syncDB(),10/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],10/10/2025 07:00:02
+⚠ No response data returned from syncDB(),10/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],10/10/2025 08:00:01
+⚠ No response data returned from syncDB(),11/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],11/10/2025 00:00:02
+⚠ No response data returned from syncDB(),11/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],11/10/2025 01:00:02
+⚠ No response data returned from syncDB(),11/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 02:00:01
+⚠ No response data returned from syncDB(),11/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 03:00:01
+⚠ No response data returned from syncDB(),11/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 04:00:01
+⚠ No response data returned from syncDB(),11/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 05:00:01
+⚠ No response data returned from syncDB(),11/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],11/10/2025 06:00:02
+⚠ No response data returned from syncDB(),11/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],11/10/2025 07:00:02
+⚠ No response data returned from syncDB(),11/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 08:00:01
+⚠ No response data returned from syncDB(),11/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],11/10/2025 23:00:01
+⚠ No response data returned from syncDB(),12/10/2025 00:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 00:00:01
+⚠ No response data returned from syncDB(),12/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 01:00:01
+⚠ No response data returned from syncDB(),12/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],12/10/2025 02:00:02
+⚠ No response data returned from syncDB(),12/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 03:00:01
+⚠ No response data returned from syncDB(),12/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 04:00:01
+⚠ No response data returned from syncDB(),12/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],12/10/2025 05:00:02
+⚠ No response data returned from syncDB(),12/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 06:00:01
+⚠ No response data returned from syncDB(),12/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],12/10/2025 07:00:02
+⚠ No response data returned from syncDB(),12/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],12/10/2025 08:00:02
+⚠ No response data returned from syncDB(),12/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],12/10/2025 23:00:01
+⚠ No response data returned from syncDB(),13/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 00:00:02
+⚠ No response data returned from syncDB(),13/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 01:00:02
+⚠ No response data returned from syncDB(),13/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],13/10/2025 02:00:01
+⚠ No response data returned from syncDB(),13/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 03:00:02
+⚠ No response data returned from syncDB(),13/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 04:00:02
+⚠ No response data returned from syncDB(),13/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 05:00:02
+⚠ No response data returned from syncDB(),13/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 06:00:02
+⚠ No response data returned from syncDB(),13/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 07:00:02
+⚠ No response data returned from syncDB(),13/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],13/10/2025 08:00:01
+⚠ No response data returned from syncDB(),13/10/2025 23:00:02
+⚠ Database sync had issues. Full response: [],13/10/2025 23:00:02
+⚠ No response data returned from syncDB(),14/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 00:00:02
+⚠ No response data returned from syncDB(),14/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],14/10/2025 01:00:01
+⚠ No response data returned from syncDB(),14/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],14/10/2025 02:00:01
+⚠ No response data returned from syncDB(),14/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 03:00:02
+⚠ No response data returned from syncDB(),14/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 04:00:02
+⚠ No response data returned from syncDB(),14/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 05:00:02
+⚠ No response data returned from syncDB(),14/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],14/10/2025 06:00:01
+⚠ No response data returned from syncDB(),14/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 07:00:02
+⚠ No response data returned from syncDB(),14/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],14/10/2025 08:00:02
+⚠ No response data returned from syncDB(),14/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],14/10/2025 23:00:01
+⚠ No response data returned from syncDB(),15/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 00:00:02
+⚠ No response data returned from syncDB(),15/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 01:00:02
+⚠ No response data returned from syncDB(),15/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 02:00:02
+⚠ No response data returned from syncDB(),15/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 03:00:02
+⚠ No response data returned from syncDB(),15/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],15/10/2025 04:00:01
+⚠ No response data returned from syncDB(),15/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 05:00:02
+⚠ No response data returned from syncDB(),15/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 06:00:02
+⚠ No response data returned from syncDB(),15/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 07:00:02
+⚠ No response data returned from syncDB(),15/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],15/10/2025 08:00:02
+⚠ No response data returned from syncDB(),15/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],15/10/2025 23:00:01
+⚠ No response data returned from syncDB(),16/10/2025 00:00:01
+⚠ Database sync had issues. Full response: [],16/10/2025 00:00:01
+⚠ No response data returned from syncDB(),16/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 01:00:02
+⚠ No response data returned from syncDB(),16/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],16/10/2025 02:00:01
+⚠ No response data returned from syncDB(),16/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 03:00:02
+⚠ No response data returned from syncDB(),16/10/2025 04:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 04:00:02
+⚠ No response data returned from syncDB(),16/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 05:00:02
+⚠ No response data returned from syncDB(),16/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],16/10/2025 06:00:01
+⚠ No response data returned from syncDB(),16/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 07:00:02
+⚠ No response data returned from syncDB(),16/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],16/10/2025 08:00:01
+⚠ No response data returned from syncDB(),16/10/2025 23:00:02
+⚠ Database sync had issues. Full response: [],16/10/2025 23:00:02
+⚠ No response data returned from syncDB(),17/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 00:00:02
+⚠ No response data returned from syncDB(),17/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],17/10/2025 01:00:01
+⚠ No response data returned from syncDB(),17/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],17/10/2025 02:00:01
+⚠ No response data returned from syncDB(),17/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 03:00:02
+⚠ No response data returned from syncDB(),17/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],17/10/2025 04:00:01
+⚠ No response data returned from syncDB(),17/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 05:00:02
+⚠ No response data returned from syncDB(),17/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 06:00:02
+⚠ No response data returned from syncDB(),17/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 07:00:02
+⚠ No response data returned from syncDB(),17/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],17/10/2025 08:00:01
+⚠ No response data returned from syncDB(),17/10/2025 23:00:02
+⚠ Database sync had issues. Full response: [],17/10/2025 23:00:02
+⚠ No response data returned from syncDB(),18/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 00:00:02
+⚠ No response data returned from syncDB(),18/10/2025 01:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 01:00:02
+⚠ No response data returned from syncDB(),18/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],18/10/2025 02:00:01
+⚠ No response data returned from syncDB(),18/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 03:00:02
+⚠ No response data returned from syncDB(),18/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],18/10/2025 04:00:01
+⚠ No response data returned from syncDB(),18/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],18/10/2025 05:00:01
+⚠ No response data returned from syncDB(),18/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 06:00:02
+⚠ No response data returned from syncDB(),18/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 07:00:02
+⚠ No response data returned from syncDB(),18/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 08:00:02
+⚠ No response data returned from syncDB(),18/10/2025 23:00:02
+⚠ Database sync had issues. Full response: [],18/10/2025 23:00:02
+⚠ No response data returned from syncDB(),19/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],19/10/2025 00:00:02
+⚠ No response data returned from syncDB(),19/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 01:00:01
+⚠ No response data returned from syncDB(),19/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 02:00:01
+⚠ No response data returned from syncDB(),19/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 03:00:01
+⚠ No response data returned from syncDB(),19/10/2025 05:00:02
+⚠ Database sync had issues. Full response: [],19/10/2025 05:00:02
+⚠ No response data returned from syncDB(),19/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 06:00:01
+⚠ No response data returned from syncDB(),19/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 07:00:01
+⚠ No response data returned from syncDB(),19/10/2025 08:00:02
+⚠ Database sync had issues. Full response: [],19/10/2025 08:00:02
+⚠ No response data returned from syncDB(),19/10/2025 23:00:01
+⚠ Database sync had issues. Full response: [],19/10/2025 23:00:01
+⚠ No response data returned from syncDB(),20/10/2025 00:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 00:00:01
+⚠ No response data returned from syncDB(),20/10/2025 01:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 01:00:01
+⚠ No response data returned from syncDB(),20/10/2025 02:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 02:00:01
+⚠ No response data returned from syncDB(),20/10/2025 03:00:02
+⚠ Database sync had issues. Full response: [],20/10/2025 03:00:02
+⚠ No response data returned from syncDB(),20/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 04:00:01
+⚠ No response data returned from syncDB(),20/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 05:00:01
+⚠ No response data returned from syncDB(),20/10/2025 06:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 06:00:01
+⚠ No response data returned from syncDB(),20/10/2025 07:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 07:00:01
+⚠ No response data returned from syncDB(),20/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],20/10/2025 08:00:01
+⚠ No response data returned from syncDB(),21/10/2025 00:00:02
+⚠ Database sync had issues. Full response: [],21/10/2025 00:00:02
+⚠ No response data returned from syncDB(),21/10/2025 01:00:03
+⚠ Database sync had issues. Full response: [],21/10/2025 01:00:03
+⚠ No response data returned from syncDB(),21/10/2025 02:00:02
+⚠ Database sync had issues. Full response: [],21/10/2025 02:00:02
+⚠ No response data returned from syncDB(),21/10/2025 03:00:01
+⚠ Database sync had issues. Full response: [],21/10/2025 03:00:01
+⚠ No response data returned from syncDB(),21/10/2025 04:00:01
+⚠ Database sync had issues. Full response: [],21/10/2025 04:00:01
+⚠ No response data returned from syncDB(),21/10/2025 05:00:01
+⚠ Database sync had issues. Full response: [],21/10/2025 05:00:01
+⚠ No response data returned from syncDB(),21/10/2025 06:00:02
+⚠ Database sync had issues. Full response: [],21/10/2025 06:00:02
+⚠ No response data returned from syncDB(),21/10/2025 07:00:02
+⚠ Database sync had issues. Full response: [],21/10/2025 07:00:02
+⚠ No response data returned from syncDB(),21/10/2025 08:00:01
+⚠ Database sync had issues. Full response: [],21/10/2025 08:00:01
