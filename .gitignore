@@ -5,10 +5,11 @@ logs/
 # Node.js dependencies
 node_modules/
 certs/
+logs/
 
-
+logs
 # Logs
-*.log
+*.logs
 
 # Environment files
 
