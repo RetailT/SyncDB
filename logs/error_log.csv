@@ -1,0 +1,244 @@
+Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 in 30000ms,24/10/2025 23:00:30
+Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 in 30000ms,24/10/2025 23:00:30
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 00:00:00
+No customer data found.,25/10/2025 00:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 00:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 01:00:00
+No customer data found.,25/10/2025 01:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 01:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 02:00:00
+No customer data found.,25/10/2025 02:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 02:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 03:00:00
+No customer data found.,25/10/2025 03:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 03:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 04:00:00
+No customer data found.,25/10/2025 04:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 04:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 05:00:00
+No customer data found.,25/10/2025 05:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 05:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 06:00:00
+No customer data found.,25/10/2025 06:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 06:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 07:00:00
+No customer data found.,25/10/2025 07:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 07:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 08:00:00
+No customer data found.,25/10/2025 08:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 08:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",25/10/2025 23:00:00
+No customer data found.,25/10/2025 23:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",25/10/2025 23:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 00:00:00
+No customer data found.,26/10/2025 00:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 00:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 01:00:00
+No customer data found.,26/10/2025 01:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 01:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 02:00:00
+No customer data found.,26/10/2025 02:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 02:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 03:00:00
+No customer data found.,26/10/2025 03:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 03:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 04:00:00
+No customer data found.,26/10/2025 04:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 04:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 05:00:00
+No customer data found.,26/10/2025 05:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 05:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 06:00:00
+No customer data found.,26/10/2025 06:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 06:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 07:00:00
+No customer data found.,26/10/2025 07:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 07:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 08:00:00
+No customer data found.,26/10/2025 08:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 08:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",26/10/2025 23:00:00
+No customer data found.,26/10/2025 23:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",26/10/2025 23:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 00:00:00
+No customer data found.,27/10/2025 00:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 00:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 01:00:00
+No customer data found.,27/10/2025 01:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 01:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 02:00:00
+No customer data found.,27/10/2025 02:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 02:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 03:00:00
+No customer data found.,27/10/2025 03:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 03:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 04:00:00
+No customer data found.,27/10/2025 04:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 04:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 05:00:00
+No customer data found.,27/10/2025 05:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 05:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 06:00:00
+No customer data found.,27/10/2025 06:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 06:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 07:00:00
+No customer data found.,27/10/2025 07:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 07:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 08:00:00
+No customer data found.,27/10/2025 08:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 08:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",27/10/2025 23:00:00
+No customer data found.,27/10/2025 23:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",27/10/2025 23:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 00:00:00
+No customer data found.,28/10/2025 00:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 00:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 01:00:00
+No customer data found.,28/10/2025 01:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 01:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 02:00:00
+No customer data found.,28/10/2025 02:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 02:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 03:00:00
+No customer data found.,28/10/2025 03:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 03:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 04:00:00
+No customer data found.,28/10/2025 04:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 04:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 05:00:00
+No customer data found.,28/10/2025 05:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 05:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 06:00:00
+No customer data found.,28/10/2025 06:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 06:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 07:00:01
+No customer data found.,28/10/2025 07:00:01
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 07:00:01
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 54120000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 08:00:00
+No customer data found.,28/10/2025 08:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",28/10/2025 08:00:00
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - F8220000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 09:12:01
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - F8220000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 09:12:01
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - D4110000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 09:48:01
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - D4110000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 09:48:01
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - E0190000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 10:02:01
+"Failed to initialize database connection for IP 124.43.18.177: Failed to connect to 124.43.18.177:1433 - E0190000:error:0A000102:SSL routines:ssl_choose_client_version:unsupported protocol:c:\ws\deps\openssl\openssl\ssl\statem\statem_lib.c:1992:
+",28/10/2025 10:02:01
+Could not update tables: No connection is specified for that request.,28/10/2025 10:26:12
+Could not update tables: No connection is specified for that request.,28/10/2025 23:00:12
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 00:00:00
+No customer data found.,29/10/2025 00:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 00:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 01:00:00
+No customer data found.,29/10/2025 01:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 01:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 02:00:00
+No customer data found.,29/10/2025 02:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 02:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 03:00:00
+No customer data found.,29/10/2025 03:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 03:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 04:00:00
+No customer data found.,29/10/2025 04:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 04:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 05:00:00
+No customer data found.,29/10/2025 05:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 05:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 06:00:00
+No customer data found.,29/10/2025 06:00:01
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 06:00:01
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 07:00:00
+No customer data found.,29/10/2025 07:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 07:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 9C1C0000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+",29/10/2025 08:00:00
+No customer data found.,29/10/2025 08:00:00
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}",29/10/2025 08:00:00
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 00:00:00"
+"No customer data found.","30/10/2025 00:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 00:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 01:00:00"
+"No customer data found.","30/10/2025 01:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 01:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 02:00:00"
+"No customer data found.","30/10/2025 02:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 02:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 03:00:00"
+"No customer data found.","30/10/2025 03:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 03:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 04:00:00"
+"No customer data found.","30/10/2025 04:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 04:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 05:00:00"
+"No customer data found.","30/10/2025 05:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 05:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 06:00:00"
+"No customer data found.","30/10/2025 06:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 06:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 07:00:00"
+"No customer data found.","30/10/2025 07:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 07:00:00"
+"Error in syncDBConnection at 173.208.167.190:1443: Failed to connect to 173.208.167.190:1443 - 60210000:error:0A00014D:SSL routines:tls_process_key_exchange:legacy sigalg disallowed or unsupported:c:\ws\deps\openssl\openssl\ssl\statem\statem_clnt.c:2263:
+","30/10/2025 08:00:00"
+"No customer data found.","30/10/2025 08:00:00"
+"⚠ Database sync had issues. Full response: {""message"":""No customer data found.""}","30/10/2025 08:00:00"
