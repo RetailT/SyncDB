@@ -1,29 +1,34 @@
 const mssql = require('mssql');
 require('dotenv').config();
 
-// MSSQL database configuration
-const dbConfig = {
-  user: process.env.DB_USER,      // Database username
-  password: process.env.DB_PASSWORD,  // Database password
-  server: process.env.DB_SERVER,        // Database server address
-  database: process.env.DB_DATABASE1,  // Database name
-  options: {
-    encrypt: false,            // Disable encryption
-    trustServerCertificate: true // Trust server certificate (useful for local databases)
-  },
-  port: 1443                   // Default MSSQL port (1433)
-};
+let cachedPool = null;
 
-// Connect to MSSQL server asynchronously
 const connectToDatabase = async () => {
-  try {
-    await mssql.connect(dbConfig);
-    console.log('Connected to the MSSQL database');
-  } catch (err) {
-    console.error('Database connection failed:', err);
-    process.exit(1);
+  if (cachedPool && cachedPool.connected) {
+    try {
+      await cachedPool.request().query('SELECT 1');
+      return cachedPool;
+    } catch (err) {
+      console.warn('Main pool stale, reconnecting...');
+      await cachedPool.close();
+      cachedPool = null;
+    }
   }
+
+  const config = {
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    server: process.env.DB_SERVER,  // 173.208.167.190
+    database: process.env.DB_DATABASE1,  // RTPOS_MAIN
+    port: 1443,
+    options: { encrypt: false, trustServerCertificate: true },
+    requestTimeout: 15000,
+  };
+
+  const pool = await new mssql.ConnectionPool(config).connect();
+  cachedPool = pool;
+  console.log('Connected to MAIN DB:', config.server, config.port);
+  return pool;
 };
 
-// Export connection function for use in other files
-module.exports = { connectToDatabase, mssql };
+module.exports = { connectToDatabase };

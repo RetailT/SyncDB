@@ -1,18 +1,16 @@
 const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
-// const { authenticateToken } = require('./middleware/authenticateToken');
-const { connectToDatabase } = require('./config/db');  // Import the connection function
+const { connectToDatabase } = require('./config/db');
 
-const authController = require('./controllers/authController');
+// Import the sync function or cron starter
+const { startSyncCron } = require('./controllers/authController'); // We'll create this
 
-// Set up Express app
 const app = express();
 const port = 8010;
-// const port = 5000;
 
 const corsOptions = {
-  origin: ['http://www.retailtarget.lk', 'http://retailtarget.lk', 'http://localhost:3000'], // Add both variants of the domain
+  origin: ['http://www.retailtarget.lk', 'http://retailtarget.lk', 'http://localhost:3000'],
   credentials: true,
   optionSuccessStatus: 200,
   methods: "GET,PUT,POST,DELETE"
@@ -23,13 +21,23 @@ app.use(cors(corsOptions));
 app.options('*', cors(corsOptions)); 
 app.use(bodyParser.json());
 
-// Connect to the database before starting the server
+// Connect to DB and start server + cron
 connectToDatabase().then(() => {
-   // Routes
-   app.get("/", (req, res) => {res.send("Hello from Node.js");});
+  app.get("/", (req, res) => { res.send("Hello from Node.js"); });
 
-  // Start server
-  app.listen(port,"0.0.0.0", () => {
-    console.log(`Server running`);
+  // Start the cron job after DB connection
+  startSyncCron();  // <--- ADD THIS
+
+  //Add Health Check Endpoint -- optional
+  app.get("/health", (req, res) => {
+  res.json({
+    status: "OK",
+    time: getSriLankaTime(),
+    cronRunning: isCronRunning
+  });
+});
+
+  app.listen(port, "0.0.0.0", () => {
+    console.log(`Server running on port ${port}`);
   });
 });
