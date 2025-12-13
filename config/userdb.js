@@ -22,7 +22,7 @@ const connectToUserDatabase = async (ip, port) => {
     password: process.env.DB_PASSWORD,
     server: ip.trim(),
     database: process.env.DB_DATABASE2,  // RT_WEB
-    port: parseInt(port.trim(), 10) || 1433,
+    port: parseInt(port.trim(), 10),
     options: { encrypt: false, trustServerCertificate: true },
     requestTimeout: 15000,
   };

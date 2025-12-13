@@ -18,9 +18,9 @@ const connectToDatabase = async () => {
   const config = {
     user: process.env.DB_USER,
     password: process.env.DB_PASSWORD,
-    server: process.env.DB_SERVER,  // 173.208.167.190
-    database: process.env.DB_DATABASE1,  // RTPOS_MAIN
-    port: 1443,
+    server: process.env.DB_SERVER, // 173.208.167.190
+    database: process.env.DB_DATABASE1, // RTPOS_MAIN
+    port: parseInt(process.env.PORT),
     options: { encrypt: false, trustServerCertificate: true },
     requestTimeout: 15000,
   };

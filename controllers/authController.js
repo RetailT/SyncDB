@@ -11,7 +11,7 @@ const https = require("https");
 
 let isCronRunning = false;
 const posmain = process.env.DB_DATABASE1;
-const db_port1 = 1443; // For posmain database
+const db_port1 = parseInt(process.env.PORT)
 
 const logsDir = path.join(__dirname, "../logs");
 
