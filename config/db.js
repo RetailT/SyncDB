@@ -2,6 +2,7 @@ const mssql = require('mssql');
 require('dotenv').config();
 
 let cachedPool = null;
+const dbport = process.env.DB_PORT;
 
 const connectToDatabase = async () => {
   if (cachedPool && cachedPool.connected) {
@@ -20,7 +21,7 @@ const connectToDatabase = async () => {
     password: process.env.DB_PASSWORD,
     server: process.env.DB_SERVER, // 173.208.167.190
     database: process.env.DB_DATABASE1, // RTPOS_MAIN
-    port: parseInt(process.env.PORT),
+    port: parseInt(dbport.trim()),
     options: { encrypt: false, trustServerCertificate: true },
     requestTimeout: 15000,
   };

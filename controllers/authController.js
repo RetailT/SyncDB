@@ -11,7 +11,7 @@ const https = require("https");
 
 let isCronRunning = false;
 const posmain = process.env.DB_DATABASE1;
-const db_port1 = parseInt(process.env.PORT)
+const db_port1 = parseInt(process.env.DB_PORT);
 
 const logsDir = path.join(__dirname, "../logs");
 
@@ -217,17 +217,15 @@ function trimObjectStrings(obj) {
 }
 
 async function updateTables(syncdbIp, syncdbPort) {
-  const user_ip = syncdbIp.trim();
-  const user_port = syncdbPort != null ? parseInt(syncdbPort, 10) : null;
-  
-  const pool = await connectToUserDatabase(user_ip, user_port);
-  
+
+  const pool = await connectToUserDatabase(syncdbIp, syncdbPort);
+
   if (!pool || !pool.connected) {
     const msg = "Database connection failed at update tables";
     await logErrorsToCSV(msg);
     return res.status(500).json({ message: "Database connection failed" });
   }
- 
+
   const transaction = pool.transaction();
 
   try {
@@ -317,7 +315,6 @@ async function logSuccessToCSV(successMessage) {
 
 async function syncDB() {
   try {
-    
     await connectToDatabase();
 
     const dbConnectionData = await syncDBConnection();
@@ -349,18 +346,17 @@ async function syncDB() {
       }
 
       try {
-        const user_ip = customer.IP.trim();
-        const connection = await connectToUserDatabase(
-          user_ip,
-          customer.PORT.trim()
-        );
         
+        const connection = await connectToUserDatabase(
+          customer.IP,
+          customer.PORT
+        );
 
         const users = await userDetails(connection);
 
         if (!users || users.length === 0) {
           const msg = `No users found for IP: ${syncdbIp}`;
-          
+
           errors.push(msg);
           await logErrorsToCSV(msg);
           continue;
@@ -475,10 +471,9 @@ async function syncDB() {
         errors.push(errMsg);
         await logErrorsToCSV(errMsg);
       }
-      
 
       try {
-        await updateTables(syncdbIp, syncdbPort);
+        await updateTables(customer.IP, customer.PORT);
       } catch (e) {
         const errMsg = `Could not update tables after sync: ${e.message}`;
         console.error(errMsg);
@@ -497,9 +492,9 @@ async function syncDB() {
 
 // Start cron job with lock
 function startSyncCron() {
-
   cron.schedule(
     // "*/5 * * * *", // Every 5 minutes for testing
+    // "42 11 * * *", // Every day at 09:25 AM
     "0 0 23,0-8 * * *", // Your original schedule
     async () => {
       if (isCronRunning) {
@@ -542,4 +537,3 @@ module.exports = {
   startSyncCron,
   // ... export other functions if used in routes
 };
-

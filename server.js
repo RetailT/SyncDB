@@ -2,12 +2,13 @@ const express = require('express');
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const { connectToDatabase } = require('./config/db');
+require("dotenv").config();
 
 // Import the sync function or cron starter
 const { startSyncCron } = require('./controllers/authController'); // We'll create this
 
 const app = express();
-const port = 8010;
+const port = process.env.NODE_PORT;
 
 const corsOptions = {
   origin: ['http://www.retailtarget.lk', 'http://retailtarget.lk', 'http://localhost:3000'],
@@ -37,7 +38,7 @@ connectToDatabase().then(() => {
   });
 });
 
-  app.listen(port, "0.0.0.0", () => {
+  app.listen(parseInt(port.trim()), "0.0.0.0", () => {
     console.log(`Server running on port ${port}`);
   });
 });
